@@ -27,12 +27,12 @@ namespace CommonCounter
         {
             if (!initialStatus) return default(T);
 
-            this.counter.Value = CalcNextCounterValue(hasValue, counter.InitialValue, calculateNewValue, isEqualMaxValue, counter.Recyle);
+            this.counter.Value = CalcNextCounterValue(hasValue, counter.InitialValue, counter.Recyle);
 
             return this.counter;
         }
 
-        protected virtual int? CalcNextCounterValue(bool hasValue, int initialValue, int calculateNewValue, bool isEqualMaxValue, bool recyle)
+        protected virtual int? CalcNextCounterValue(bool hasValue, int initialValue, bool recyle)
         {
             if (!hasValue) return initialValue;
 
