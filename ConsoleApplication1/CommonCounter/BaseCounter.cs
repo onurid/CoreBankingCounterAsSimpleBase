@@ -7,8 +7,8 @@ namespace CommonCounter
         private readonly T counter;
 
         private bool hasValue { get; set; }
-        private int calculateNewValue { get; set; }
-        private bool isEqualMaxValue { get; set; }
+        private int newValue { get; set; }
+        private bool isOverMaxValue { get; set; }
         private bool initialStatus { get; set; }
 
         protected BaseCounter(T counter)
@@ -36,24 +36,24 @@ namespace CommonCounter
         {
             if (!hasValue) return initialValue;
 
-            calculateNewValue = CalculateNewValue((int)counter.Value, counter.IncrementValue);
-            isEqualMaxValue = IsEqualMaxValue(counter.MaxValue, calculateNewValue);
+            newValue = CalculateNewValue((int)counter.Value, counter.IncrementValue);
+            isOverMaxValue = IsOverMaxValue(counter.MaxValue, newValue);
 
-            if (!isEqualMaxValue) return calculateNewValue;
+            if (!isOverMaxValue) return newValue;
 
             if (recyle) return initialValue;
 
             return null;
         }
 
-        protected virtual bool IsEqualMaxValue(int maxValue, int calcNewValue)
+        protected virtual bool IsOverMaxValue(int maxValue, int value)
         {
-            return maxValue < calcNewValue;
+            return maxValue < value;
         }
 
-        protected virtual int CalculateNewValue(int value, int incrementvalue)
+        protected virtual int CalculateNewValue(int value, int incrementValue)
         {
-            return value + incrementvalue;
+            return value + incrementValue;
         }
 
         private static bool HasValue(int? value)
