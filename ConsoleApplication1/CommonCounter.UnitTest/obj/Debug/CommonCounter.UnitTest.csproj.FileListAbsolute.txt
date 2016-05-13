@@ -1,0 +1,15 @@
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\CommonCounter.UnitTest.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\CommonCounter.UnitTest.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\CommonCounter.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\FluentAssertions.Core.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\FluentAssertions.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\CommonCounter.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\FluentAssertions.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\FluentAssertions.xml
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\FluentAssertions.Core.xml
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\obj\Debug\CommonCounter.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\obj\Debug\CommonCounter.UnitTest.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter.UnitTest\obj\Debug\CommonCounter.UnitTest.pdb

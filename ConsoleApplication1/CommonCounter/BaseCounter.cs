@@ -22,7 +22,6 @@ namespace CommonCounter
             hasValue = HasValue(counter.Value);
         }
 
-
         public virtual T GetNextCounterData()
         {
             if (!initialStatus) return default(T);
