@@ -1,6 +1,5 @@
 ﻿using System;
 using CommonCounter;
-using CommonCounter.Interface;
 using ConsoleApplication1.Model;
 
 namespace ConsoleApplication1

@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using CommonCounter.Interface;
+﻿using CommonCounter.Interface;
 
 namespace CommonCounter
 {
