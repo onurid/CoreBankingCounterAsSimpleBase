@@ -1,10 +1,12 @@
-﻿using CommonCounter.Interface;
+﻿using System.Collections;
+using System.Collections.Generic;
+using CommonCounter.Interface;
 
 namespace CommonCounter
 {
     public abstract class BaseCounter<T> : ICounter<T> where T : ICounterModel
     {
-        private T counter { get; set; }
+        private readonly T counter;
 
         private bool hasValue { get; set; }
         private int calculateNewValue { get; set; }
@@ -14,21 +16,14 @@ namespace CommonCounter
         protected BaseCounter(T counter)
         {
             this.counter = counter;
-        }
 
-        public virtual bool Initial()
-        {
             initialStatus = false;
-            if (!HasData(counter)) return false;
+            if (!HasData(counter)) return;
 
             initialStatus = true;
             hasValue = HasValue(counter.Value);
-            if (!hasValue) return true;
-
-            calculateNewValue = CalculateNewValue((int)counter.Value, counter.IncrementValue);
-            isEqualMaxValue = IsEqualMaxValue(counter.MaxValue, calculateNewValue);
-            return true;
         }
+
 
         public virtual T GetNextCounterData()
         {
@@ -42,6 +37,9 @@ namespace CommonCounter
         protected virtual int? CalcNextCounterValue(bool hasValue, int initialValue, int calculateNewValue, bool isEqualMaxValue, bool recyle)
         {
             if (!hasValue) return initialValue;
+
+            calculateNewValue = CalculateNewValue((int)counter.Value, counter.IncrementValue);
+            isEqualMaxValue = IsEqualMaxValue(counter.MaxValue, calculateNewValue);
 
             if (!isEqualMaxValue) return calculateNewValue;
 

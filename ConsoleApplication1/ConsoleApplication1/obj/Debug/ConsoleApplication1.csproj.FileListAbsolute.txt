@@ -14,3 +14,11 @@ C:\Users\onur.yasar\Desktop\CommonCounter\ConsoleApplication1\ConsoleApplication
 C:\Users\onur.yasar\Desktop\CommonCounter\ConsoleApplication1\ConsoleApplication1\bin\Debug\CommonCounter.dll
 C:\Users\onur.yasar\Desktop\CommonCounter\ConsoleApplication1\ConsoleApplication1\bin\Debug\CommonCounter.pdb
 C:\Users\onur.yasar\Desktop\CommonCounter\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\bin\Debug\CommonCounter.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\ConsoleApplication1\bin\Debug\CommonCounter.pdb

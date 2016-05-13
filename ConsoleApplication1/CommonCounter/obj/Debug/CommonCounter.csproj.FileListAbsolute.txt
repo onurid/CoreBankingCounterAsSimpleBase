@@ -2,3 +2,7 @@ C:\Users\onur.yasar\documents\visual studio 2015\Projects\ConsoleApplication1\Co
 C:\Users\onur.yasar\documents\visual studio 2015\Projects\ConsoleApplication1\CommonCounter\bin\Debug\CommonCounter.pdb
 C:\Users\onur.yasar\documents\visual studio 2015\Projects\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.dll
 C:\Users\onur.yasar\documents\visual studio 2015\Projects\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\bin\Debug\CommonCounter.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\bin\Debug\CommonCounter.pdb
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.dll
+C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.pdb

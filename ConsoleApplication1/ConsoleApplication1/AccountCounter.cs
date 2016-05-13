@@ -10,10 +10,5 @@ namespace ConsoleApplication1
         {
             
         }
-
-        public override bool Initial()
-        {
-            return true;
-        }
     }
 }

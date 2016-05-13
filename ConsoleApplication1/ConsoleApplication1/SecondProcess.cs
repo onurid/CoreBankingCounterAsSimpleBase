@@ -22,8 +22,7 @@ namespace ConsoleApplication1
 
             var counterProcess = new CounterProcess<Counter>(counterData);
 
-            if (counterProcess.Initial())
-                counterData = counterProcess.GetNextCounterData();
+            counterData = counterProcess.GetNextCounterData();
 
 
             return counterData;
