@@ -6,3 +6,8 @@ C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter
 C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\bin\Debug\CommonCounter.pdb
 C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.dll
 C:\Users\onur.yasar\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.pdb
+C:\Users\onuryasar34\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\bin\Debug\CommonCounter.dll
+C:\Users\onuryasar34\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\bin\Debug\CommonCounter.pdb
+C:\Users\onuryasar34\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.csprojResolveAssemblyReference.cache
+C:\Users\onuryasar34\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.dll
+C:\Users\onuryasar34\Source\Repos\CommonCounter\ConsoleApplication1\CommonCounter\obj\Debug\CommonCounter.pdb
